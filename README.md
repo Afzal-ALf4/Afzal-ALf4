@@ -44,6 +44,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afzal-ALf4&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=Afzal-ALf4&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
